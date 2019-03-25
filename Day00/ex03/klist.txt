@@ -1,0 +1,6 @@
+Credentials cache: API:1658
+        Principal: sael-you@1337.MA
+
+  Issued                Expires               Principal
+Jan  7 09:43:41 2019  Jan  7 19:43:41 2019  krbtgt/1337.MA@1337.MA
+Jan  7 10:55:21 2019  Jan  7 19:43:41 2019  host/vogsphere.1337.ma@1337.MA
